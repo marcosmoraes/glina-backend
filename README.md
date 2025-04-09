@@ -130,10 +130,6 @@ glina-backend/
 
 ---
 
-```
-
 Desenho arquitetural do MVP --> https://excalidraw.com/#json=f-JZI-qTEgTY7nnJSkrzm,Eyrm4bdLi6JGXMH_voKcLA 
-
-````
 
 Feito com ❤️ para a Glina.
